@@ -45,6 +45,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+You will need a .env file to run this project; the corresponding .env file will be provided via email along with the link to this repository.
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
